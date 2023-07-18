@@ -1,0 +1,26 @@
+/*banner section start*/
+.banner{
+    background: #FFF;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
+    display: flex;
+    justify-content: space-evenly;
+    width: 1920px;
+    height: 130px;
+    flex-shrink: 0;
+
+}
+.txt-icn{
+    display: grid;
+    grid-row-start: ;
+
+}
+.yt-logo{
+    width: 33.916px;
+    height: 24px;
+    flex-shrink: 0;
+}
+.tiktok-logo{
+    width: 24px;
+    height: 24px;
+    
+}
